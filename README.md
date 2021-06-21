@@ -1,12 +1,10 @@
 # laravel-base
+このリポジトリは以下を基に作成したFunRetriever用のDocker環境です
+https://github.com/happy-ryo/laravel-base.git
 
-## Set up.
+## 導入手順
 
-1. git clone git@github.com:happy-ryo/laravel-base.git
-2. cd backend
-3. Clone your project.
-4. cd ../
-5. cp .env.example .env
-6. docker-compose up -d --build
-7. docker-compose exec app bash
-8. Please, set up your project.
+1. 作業ディレクトリで以下コマンドを実行して<br>
+   git clone https://github.com/KatoTakayasu/laravel-base.git
+2. FunRetriever自体の導入は以下のREADMEの導入手順3以降を実行
+　　https://github.com/KatoTakayasu/FunRetriever.git
