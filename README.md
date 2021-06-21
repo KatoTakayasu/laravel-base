@@ -1,5 +1,5 @@
 # laravel-base
-このリポジトリは以下を基に作成したFunRetriever用のDocker環境です
+このリポジトリは以下を基に作成したFunRetriever用のDocker環境です<br>
 https://github.com/happy-ryo/laravel-base.git
 
 ## 導入手順
